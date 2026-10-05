@@ -3,7 +3,7 @@
 // ─────────────────────────────────────────────────────────────
 
 export const site = {
-  url: "https://www.solanaeast.org", // ← غيّرها بالدومين الفعلي
+  url: "https://www.solanaeastegypt.org", // ← غيّرها بالدومين الفعلي
   agency: "solana",
   project: "سولانا إيست لين",
   projectEn: "Solana East Lane",
@@ -13,7 +13,7 @@ export const site = {
   phoneIntl: "+201110977709",
   phoneDisplay: "01110977709",
   whatsapp: "201110977709",
-  email: "leads@solanaeast.org",
+  email: "leads@solanaeastegypt.org",
 
   // ← Google Ads: ضع الـ tag و labels قبل النشر
   gtag: "",
